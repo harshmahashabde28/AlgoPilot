@@ -14,8 +14,8 @@ AlgoPilot is an AI-powered Competitive Programming Coach designed to help progra
 ## 🛠️ Tech Stack
 
 - HTML
-- CSS
-- JavaScript
+- CSS(Upcoming)
+- JavaScript(Upcoming)
 - React (Upcoming)
 - TypeScript (Upcoming)
 - Node.js (Upcoming)
